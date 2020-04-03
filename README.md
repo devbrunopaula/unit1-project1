@@ -6,14 +6,14 @@
 
 Remember that semantic markup provides meaning. Here are a few tags you could consider using:
 
-[x] _ <h1> through <h6>
-[x] _ <p>
-[x] _ <header>
-[x] _ <footer>
-[x] _ <nav>
-[x] _ <a>
-[x] _ <section>
-[x] _ <address>
+- <h1> through <h6>
+- <p>
+- <header>
+- <footer>
+- <nav>
+- <a>
+- <section>
+- <address>
 
 Don't worry about CSS here, The goal is to markup the page in a semantic way.
 
